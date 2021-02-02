@@ -20,3 +20,4 @@ There may be more that I have not found yet ^
 Please let me know any inconviences you may have while using this template, I whipped this out in about 3 days so it's not perfect.
 
 ### Example Gameplay:
+<img src="https://github.com/sh0e/ShoeCraft/blob/master/Screenshot%202021-02-02%20at%202.53.53%20PM.png?raw=true" width="550"></img>
