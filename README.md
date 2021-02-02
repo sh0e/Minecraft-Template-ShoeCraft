@@ -23,3 +23,4 @@ _____________________________
 
 ### Example Gameplay:
 
+<img src="https://github.com/sh0e/ShoeCraft/blob/master/Screenshot%202021-02-02%20at%202.53.53%20PM.png?raw=true" width="350"></img>
