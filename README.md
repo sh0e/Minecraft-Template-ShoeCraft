@@ -21,3 +21,6 @@ Please let me know any inconviences you may have while using this template, I wh
 
 ### Example Gameplay:
 <img src="https://github.com/sh0e/ShoeCraft/blob/master/Screenshot%202021-02-02%20at%202.53.53%20PM.png?raw=true" width="550"></img>
+
+
+### C++ Rewrite coming soon??!
