@@ -5,13 +5,21 @@ ShoeCraft is a blocky-texture like Minecraft game that I wrote in Pure vanilla J
 _____________________________
 
 • Transparent Floor glitch
+
 • Jump glitch - You basically sometimes jump insanely high for no reason lol
+
 • Voxel Importing glitch
+
 • Low FPS Rendering
+
 • Controls Stop Working
+
 • Sky and "Walls" Uneven - I messed up the sky textures/drawings
+
 • Client Spawns in Air
+
 • Mountain Fog glitch
+
 
 ### Example Gameplay:
 
