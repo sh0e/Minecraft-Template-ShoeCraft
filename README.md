@@ -26,4 +26,4 @@ _____________________________
 <img src="https://github.com/sh0e/ShoeCraft/blob/master/Screenshot%202021-02-02%20at%202.53.53%20PM.png?raw=true" width="550"></img>
 
 
-I apologize in advance for any trouble you may have with this, I whiped this up in about 3 days so it's not perfect.
+I apologize in advance for any trouble you may have with this, I whipped this up in about 3 days so it's not perfect.
