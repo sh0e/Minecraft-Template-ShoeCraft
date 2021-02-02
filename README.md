@@ -27,3 +27,5 @@ _____________________________
 
 
 I apologize in advance for any trouble you may have with this, I whipped this up in about 3 days so it's not perfect.
+
+Let me know if you want a C++ rewrite!
