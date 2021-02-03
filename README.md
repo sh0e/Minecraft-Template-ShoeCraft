@@ -14,6 +14,8 @@ ShoeCraft is a blocky-texture like game similar to Minecraft that I wrote in pur
 
 • Client spawns in sky
 
+• Infinite flat generation
+
 
 There may be more that I have not found yet ^
 
