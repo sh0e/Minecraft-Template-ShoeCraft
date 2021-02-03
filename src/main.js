@@ -12,7 +12,7 @@ import {voxels} from './voxels.js';
 let _APP = null;
 
 
-class SimonDevCraft extends game.Game {
+class ShoeCraft extends game.Game {
   constructor() {
     super();
   }
@@ -63,7 +63,7 @@ class SimonDevCraft extends game.Game {
 
 
 function _Main() {
-  _APP = new SimonDevCraft();
+  _APP = new ShoeCraft();
 }
 
 _Main();
